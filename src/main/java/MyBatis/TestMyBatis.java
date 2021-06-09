@@ -1,5 +1,6 @@
 package MyBatis;
 
+import MyBatis.mapper.RoleMapper;
 import org.apache.ibatis.session.SqlSession;
 
 import org.slf4j.Logger;
