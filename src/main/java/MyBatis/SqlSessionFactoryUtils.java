@@ -20,6 +20,10 @@ public class SqlSessionFactoryUtils {
 
     private static SqlSessionFactory sqlSessionFactory = null;
 
+    /** 用加载资源文件的方式创建并返回 sqlSessionFactory
+     *
+     * @return  sqlSessionFactory
+     */
     public static SqlSessionFactory getSqlSessionFactory() {
         synchronized (LOCK) {
             if (sqlSessionFactory != null) {
@@ -38,9 +42,8 @@ public class SqlSessionFactoryUtils {
         }
     }
 
-    /**
-     *
-     *
+    /**  用代码实现创造 SqlSession返回
+     *  用代码实现创造 SqlSession返回
 
     public static SqlSessionFactory getSqlSessionFactory2() {
         synchronized (LOCK) {

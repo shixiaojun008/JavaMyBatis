@@ -58,3 +58,24 @@
 2021-06-09 18:44:11 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@fbd1f6]
 2021-06-09 18:44:11 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@fbd1f6]
 2021-06-09 18:44:11 DEBUG PooledDataSource:391 - Returned connection 16503286 to pool.
+2021-06-10 08:17:50 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 08:17:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:17:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:17:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:17:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:17:50 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 08:19:01 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 08:19:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:19:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:19:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:19:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 08:19:01 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 08:19:02 DEBUG PooledDataSource:434 - Created connection 16503286.
+2021-06-10 08:19:02 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@fbd1f6]
+2021-06-10 08:19:02 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 08:19:02 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 08:19:02 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 08:19:02 INFO  TestMyBatis:28 - Student
+2021-06-10 08:19:02 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@fbd1f6]
+2021-06-10 08:19:02 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@fbd1f6]
+2021-06-10 08:19:02 DEBUG PooledDataSource:391 - Returned connection 16503286 to pool.
