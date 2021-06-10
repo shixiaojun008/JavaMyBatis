@@ -25,13 +25,17 @@ public class TestMyBatis {
             sqlSession = SqlSessionFactoryUtils.openSqlSession();
 
             //测试 Role 的过程
-            TestRoleMapper testRoleMapper = new TestRoleMapper();
+            //TestRoleMapper testRoleMapper = new TestRoleMapper();
 
             //测试 Role的查询
-            testRoleMapper.testRoleMapperGet(sqlSession);
+            //testRoleMapper.testRoleMapperGet(sqlSession);
 
             // 测试 Role 的插入
             //testRoleMapper.testRoleMapperIntert(sqlSession);
+
+            //测试 Employee 的过程
+            TestEmployeeMapper testEmployeeMapper = new TestEmployeeMapper();
+            testEmployeeMapper.testEmployeeMapperGet(sqlSession);
 
 
 
