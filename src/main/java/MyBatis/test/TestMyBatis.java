@@ -3,10 +3,13 @@ package MyBatis.test;
 import MyBatis.entity.*;
 import MyBatis.mapper.*;
 import MyBatis.utils.SqlSessionFactoryUtils;
+import org.apache.ibatis.session.RowBounds;
 import org.apache.ibatis.session.SqlSession;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.util.List;
 
 public class TestMyBatis {
 
@@ -22,16 +25,14 @@ public class TestMyBatis {
             sqlSession = SqlSessionFactoryUtils.openSqlSession();
 
             //测试 Role 的过程
-            RoleMapper roleMapper = sqlSession.getMapper(RoleMapper.class);
-            Role role = roleMapper.getRole(1L);
-            //logger.info(role.getRoleName());
-            System.out.println(role.getRoleName() + "过程结束!");
+            TestRoleMapper testRoleMapper = new TestRoleMapper();
 
-            //测试 User 的过程
-            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
-            User user = userMapper.getUser(1L);
-            //logger.info(user.getUserName());
-            System.out.println(user.getUserName() + "过程结束!");
+            //测试 Role的查询
+            testRoleMapper.testRoleMapperGet(sqlSession);
+
+            // 测试 Role 的插入
+            //testRoleMapper.testRoleMapperIntert(sqlSession);
+
 
 
         } catch (Exception e) {
@@ -43,5 +44,7 @@ public class TestMyBatis {
             }
         }
     }
+
+
 
 }

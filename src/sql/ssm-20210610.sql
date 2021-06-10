@@ -1,8 +1,6 @@
 SET FOREIGN_KEY_CHECKS=0;
 
 drop table if EXISTS t_role;
-
-
 create table t_role (
                         id int(12) auto_increment,
                         role_name varchar(60) not null,
@@ -10,9 +8,16 @@ create table t_role (
                         primary key(id)
 );
 
-insert into t_role(role_name, note) values('role_name_1', 'note_1');
-insert into t_role(role_name, note) values('role_name_2', 'note_2');
-insert into t_role(role_name, note) values('role_name_3', 'note_3');
+insert into t_role(role_name, note) values('role_name_01', 'note_01');
+insert into t_role(role_name, note) values('role_name_02', 'note_02');
+insert into t_role(role_name, note) values('role_name_03', 'note_03');
+insert into t_role(role_name, note) values('role_name_04', 'note_04');
+insert into t_role(role_name, note) values('role_name_05', 'note_05');
+insert into t_role(role_name, note) values('role_name_06', 'note_06');
+insert into t_role(role_name, note) values('role_name_07', 'note_07');
+insert into t_role(role_name, note) values('role_name_08', 'note_08');
+insert into t_role(role_name, note) values('role_name_09', 'note_09');
+insert into t_role(role_name, note) values('role_name_10', 'note_10');
 
 drop table  if EXISTS t_user;
 create table t_user
