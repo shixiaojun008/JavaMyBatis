@@ -218,9 +218,9 @@
 2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:02:22 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:02:22 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:02:22 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -296,9 +296,9 @@
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:03:04 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -354,9 +354,9 @@
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:03:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:03:24 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
 2021-06-10 11:03:24 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
@@ -414,9 +414,9 @@
 2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:03:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:03:24 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:03:24 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -489,9 +489,9 @@
 2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:03:39 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:03:39 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:03:39 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -578,9 +578,9 @@
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:04:04 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -636,9 +636,9 @@
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:04:04 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:04:38 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
 2021-06-10 11:04:38 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
@@ -696,9 +696,9 @@
 2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:04:38 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:04:38 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:04:38 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -785,9 +785,9 @@
 2021-06-10 11:04:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:04:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:04:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:04:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:04:50 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -860,9 +860,9 @@
 2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:07:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:07:24 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:07:24 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -945,9 +945,9 @@
 2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:07:46 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:07:46 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:07:46 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1040,9 +1040,9 @@
 2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:10:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:10:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:10:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1135,9 +1135,9 @@
 2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
 2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:10:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:10:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:10:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1235,9 +1235,9 @@
 2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
-2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:11:32 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:11:32 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:11:32 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:11:32 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1331,12 +1331,12 @@
 2021-06-10 11:12:29 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:12:29 DEBUG DefaultVFS:101 - Reader entry: ����   4 n
 2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:12:29 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:12:29 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:12:29 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:12:29 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1430,12 +1430,12 @@
 2021-06-10 11:14:28 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:14:28 DEBUG DefaultVFS:101 - Reader entry: ����   4 n
 2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:14:28 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:14:28 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:14:28 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:14:28 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1529,12 +1529,12 @@
 2021-06-10 11:15:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:15:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 z
 2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:15:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:15:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:15:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:15:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1628,12 +1628,12 @@
 2021-06-10 11:16:01 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:16:01 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
 2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:16:01 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:16:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:16:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:16:01 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1723,12 +1723,12 @@
 2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
 2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1820,12 +1820,12 @@
 2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
 2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
 2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
-2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
 2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
 2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
 2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
-2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
-2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
 2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
 2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
@@ -1863,3 +1863,437 @@
 2021-06-10 11:23:14 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
 2021-06-10 11:23:14 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
 2021-06-10 11:23:14 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:40:00 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:40:00 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:40:00 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:40:00 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:40:00 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:40:00 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: main
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: utils
+2021-06-10 11:40:00 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:00 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:40:00 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:40:00 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:00 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:00 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:00 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:02 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:40:02 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:40:02 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:02 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:02 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:40:02 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:02 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:40:02 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:02 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:02 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:02 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:02 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:40:02 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:40:02 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:02 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:40:02 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:40:02 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:40:02 INFO  TestMyBatis:27 - role_name_1
+2021-06-10 11:40:02 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:02 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:02 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:40:48 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:40:48 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:40:48 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:40:48 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:40:48 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:40:48 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:40:48 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:48 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: main
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: utils
+2021-06-10 11:40:49 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 v
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:40:49 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:40:49 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:40:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:49 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:40:50 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:40:50 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:40:50 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:50 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:40:50 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:40:50 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:50 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:40:50 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:40:50 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:40:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:50 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:40:50 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:40:50 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:40:50 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:50 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:40:50 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:40:50 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:40:50 DEBUG getUser:137 - ==>  Preparing: select id, user_name, password, sex, mobile, tel, email, note from t_user where id = ?
+2021-06-10 11:40:50 DEBUG getUser:137 - ==> Parameters: 1(Long)
+2021-06-10 11:40:50 DEBUG getUser:137 - <==      Total: 1
+2021-06-10 11:40:50 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:50 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:40:50 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:43:13 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:43:13 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:43:13 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:43:13 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:43:13 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:43:13 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: enums
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: main
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: utils
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums/SexEnum.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums/SexEnum.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/main/TestMyBatis.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 v
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:43:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:43:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:43:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:43:14 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:43:14 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:43:14 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:43:14 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:43:15 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:43:15 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:43:15 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:15 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:43:15 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:43:15 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:43:15 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:43:15 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:43:15 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:43:15 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:43:15 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:43:15 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:43:15 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:43:15 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:43:15 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:43:15 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:43:15 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:43:15 DEBUG getUser:137 - ==>  Preparing: select id, user_name, password, sex, mobile, tel, email, note from t_user where id = ?
+2021-06-10 11:43:15 DEBUG getUser:137 - ==> Parameters: 1(Long)
+2021-06-10 11:43:15 DEBUG getUser:137 - <==      Total: 1
+2021-06-10 11:43:15 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:43:15 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:43:15 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:46:23 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:46:23 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:46:23 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:46:23 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:46:23 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:46:23 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: enums
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: test
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: utils
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums/SexEnum.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/enums/SexEnum.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/test
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/test
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/test
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/test/TestMyBatis.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/test/TestMyBatis.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 v
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils
+2021-06-10 11:46:23 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/utils/SqlSessionFactoryUtils.class
+2021-06-10 11:46:23 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.enums.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.test.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.utils.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:46:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:46:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:46:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:46:23 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:46:24 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:46:24 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:46:24 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:24 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:46:24 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:46:24 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:46:24 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:46:24 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:46:24 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:46:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:46:24 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:46:24 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:46:24 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:46:24 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:46:24 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:46:24 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:46:24 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:46:24 DEBUG getUser:137 - ==>  Preparing: select id, user_name, password, sex, mobile, tel, email, note from t_user where id = ?
+2021-06-10 11:46:24 DEBUG getUser:137 - ==> Parameters: 1(Long)
+2021-06-10 11:46:24 DEBUG getUser:137 - <==      Total: 1
+2021-06-10 11:46:24 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:46:24 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:46:24 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.

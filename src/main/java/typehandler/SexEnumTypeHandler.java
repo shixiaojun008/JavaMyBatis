@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.TypeHandler;
 
-import MyBatis.entity.SexEnum;
+import MyBatis.enums.SexEnum;
 
 public class SexEnumTypeHandler implements TypeHandler<SexEnum> {
 

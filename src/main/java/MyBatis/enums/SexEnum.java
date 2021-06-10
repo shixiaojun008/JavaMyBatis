@@ -1,4 +1,4 @@
-package MyBatis.entity;
+package MyBatis.enums;
 
 
 public enum SexEnum {

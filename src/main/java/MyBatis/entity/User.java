@@ -1,5 +1,7 @@
 package MyBatis.entity;
 
+import MyBatis.enums.SexEnum;
+
 public class User {
     private Long id;
     private String userName;
