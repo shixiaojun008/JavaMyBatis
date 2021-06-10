@@ -2,7 +2,7 @@
 <!DOCTYPE configuration   PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 
-<!-- 配置 -->
+<!-- 配置 TTT -->
 <!-- 需要注意的是：MyBatis 配置项的顺序不能颠倒 -->
 <configuration>
 
