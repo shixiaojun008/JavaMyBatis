@@ -1669,3 +1669,197 @@
 2021-06-10 11:16:02 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6200f9cb]
 2021-06-10 11:16:02 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6200f9cb]
 2021-06-10 11:16:02 DEBUG PooledDataSource:391 - Returned connection 1644231115 to pool.
+2021-06-10 11:22:34 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:22:34 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:22:34 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:22:34 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:22:34 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:22:34 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/SqlSessionFactoryUtils.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/SqlSessionFactoryUtils.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:22:34 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
+2021-06-10 11:22:34 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:22:34 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:22:35 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:22:35 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:22:35 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:35 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:22:35 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:22:35 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:22:35 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:22:35 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:22:35 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:22:35 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:22:35 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:22:35 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:22:35 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:22:35 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:22:35 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:22:35 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:22:35 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:22:35 INFO  TestMyBatis:28 - role_name_1
+2021-06-10 11:22:35 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:22:35 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:22:35 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:23:13 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2021-06-10 11:23:13 DEBUG VFS:116 - Class not found: org.jboss.vfs.VFS
+2021-06-10 11:23:13 DEBUG JBoss6VFS:149 - JBoss 6 VFS API is not available in this environment.
+2021-06-10 11:23:13 DEBUG VFS:116 - Class not found: org.jboss.vfs.VirtualFile
+2021-06-10 11:23:13 DEBUG VFS:64 - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2021-06-10 11:23:13 DEBUG VFS:74 - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: entity
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: mapper
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: SqlSessionFactoryUtils.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: TestMyBatis.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: Role.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: SexEnum.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: User.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/Role.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/SexEnum.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 M	  9
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/entity/User.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 A
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/SqlSessionFactoryUtils.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/SqlSessionFactoryUtils.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 I
+2021-06-10 11:23:13 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/TestMyBatis.class
+2021-06-10 11:23:13 DEBUG DefaultVFS:101 - Reader entry: ����   4 k
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.Role matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.SexEnum matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.entity.User matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.SqlSessionFactoryUtils matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.TestMyBatis matches criteria [is assignable to Object]
+2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:23:13 DEBUG PooledDataSource:363 - PooledDataSource forcefully closed/removed all connections.
+2021-06-10 11:23:14 DEBUG PooledDataSource:434 - Created connection 1438098656.
+2021-06-10 11:23:14 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.
+2021-06-10 11:23:14 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:14 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: RoleMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: UserMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: UserMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:115 - Listing file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper
+2021-06-10 11:23:14 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: ����   4    
+2021-06-10 11:23:14 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/RoleMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:23:14 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.class
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: ����   4 	   getUser '(Ljava/lang/Long;)LMyBatis/entity/User; 
+2021-06-10 11:23:14 DEBUG DefaultVFS:224 - Find JAR URL: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:251 - Not a JAR: file:/F:/JavaProject/JavaMyBatis/target/classes/MyBatis/mapper/UserMapper.xml
+2021-06-10 11:23:14 DEBUG DefaultVFS:101 - Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2021-06-10 11:23:14 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.RoleMapper matches criteria [is assignable to Object]
+2021-06-10 11:23:14 DEBUG ResolverUtil:287 - Checking to see if class MyBatis.mapper.UserMapper matches criteria [is assignable to Object]
+2021-06-10 11:23:14 DEBUG JdbcTransaction:137 - Opening JDBC Connection
+2021-06-10 11:23:14 DEBUG PooledDataSource:426 - Checked out connection 1438098656 from pool.
+2021-06-10 11:23:14 DEBUG JdbcTransaction:101 - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:23:14 DEBUG getRole:137 - ==>  Preparing: select id, role_name as roleName, note from t_role where id = ?
+2021-06-10 11:23:14 DEBUG getRole:137 - ==> Parameters: 1(Long)
+2021-06-10 11:23:14 DEBUG getRole:137 - <==      Total: 1
+2021-06-10 11:23:14 INFO  TestMyBatis:28 - role_name_1
+2021-06-10 11:23:14 DEBUG JdbcTransaction:123 - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:23:14 DEBUG JdbcTransaction:91 - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@55b7a4e0]
+2021-06-10 11:23:14 DEBUG PooledDataSource:391 - Returned connection 1438098656 to pool.

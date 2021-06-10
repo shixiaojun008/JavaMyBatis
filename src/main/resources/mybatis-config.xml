@@ -50,7 +50,11 @@
     </environments>
 
     <!-- 数据库厂商标识 -->
-    <!--    <databaseIdProvider type=""></databaseIdProvider>-->
+    <databaseIdProvider type="DB_VENDOR">
+        <property name="MySQL" value="mysql"></property>
+        <!--        <property name="Oracle" value="oracle"></property>-->
+
+    </databaseIdProvider>
 
     <!-- 映射器 -->
     <mappers>
