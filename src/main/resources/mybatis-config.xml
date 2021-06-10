@@ -6,7 +6,7 @@
 <!-- 需要注意的是：MyBatis 配置项的顺序不能颠倒 -->
 <configuration>
 
-
+    <!-- 测试github -->
     <!-- 属性 -->
     <properties resource="jdbc-host.properties">
 
