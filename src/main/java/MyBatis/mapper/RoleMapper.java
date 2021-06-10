@@ -2,7 +2,7 @@ package MyBatis.mapper;
 
 // import org.apache.ibatis.annotations.Param;
 
-import MyBatis.Role;
+import MyBatis.entity.Role;
 
 import java.util.List;
 

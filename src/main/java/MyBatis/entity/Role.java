@@ -1,4 +1,4 @@
-package MyBatis;
+package MyBatis.entity;
 
 public class Role {
 
