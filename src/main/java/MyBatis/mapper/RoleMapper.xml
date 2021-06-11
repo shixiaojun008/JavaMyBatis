@@ -15,7 +15,8 @@
     </resultMap>
 
     <sql id="roleCols">
-        id, role_name as roleName, note
+        id
+        , role_name as roleName, note
     </sql>
 
     <insert id="insertRole" parameterType="role" useGeneratedKeys="true" keyProperty="id">
@@ -37,24 +38,35 @@
     </update>
 
     <select id="findRoles" parameterType="string" resultType="role">
-        select <include refid="roleCols"></include>
+        select
+        <include refid="roleCols"></include>
         from t_role
         where role_name like concat('%', #{roleName}, '%')
     </select>
 
 
     <select id="getRole" parameterType="long" resultType="role">
-        select <include refid="roleCols"> </include>
+        select
+        <include refid="roleCols"></include>
         from t_role
         where id = #{id}
     </select>
 
     <select id="findRolesByParams" resultType="role">
-        select <include refid="roleCols"></include>
+        select
+        <include refid="roleCols"></include>
         from t_role
         where role_name like concat('%', #{params.roleName}, '%')
-          and note like concat('%', #{params.note}, '%')
-                limit #{page.start}, #{page.limit}
+        and note like concat('%', #{params.note}, '%')
+        limit #{page.start}, #{page.limit}
+    </select>
+
+    <select id="countRole" parameterType="MyBatis.entity.CountRoleParams" statementType="CALLABLE">
+        {CALL sp_count_role(
+            #{roleName, mode=IN, jdbcType=VARCHAR},
+            #{total, mode=OUT, jdbcType=INTEGER},
+            #{execDate, mode=OUT, jdbcType=DATE}
+            )}
     </select>
 
 </mapper>

@@ -225,3 +225,27 @@ CREATE TABLE `t_work_card` (
 -- ----------------------------
 INSERT INTO `t_work_card` VALUES ('1', '1', '史小军', '研发部门', '15062602050', '项目经理', '帅哥');
 SET FOREIGN_KEY_CHECKS=1;
+
+
+
+
+-- DROP PROCEDURE IF EXISTS `sp_count_role`;
+-- DELIMITER ;;
+-- CREATE PROCEDURE `sp_count_role`(IN p_role_name VARCHAR(255), OUT count_total INT, OUT exec_date DATETIME)
+-- BEGIN
+--
+-- SELECT COUNT(*) INTO count_total FROM t_role WHERE role_name like CONCAT('%',p_role_name,'%');
+--
+-- SELECT NOW() INTO exec_date;
+--
+-- END
+-- ;;
+-- DELIMITER ;
+--
+-- -- CALL sp_count_role('name',@count_total, @exec_date);
+-- -- SELECT @count_total, @exec_date;
+--
+-- -- DROP PROCEDURE IF EXISTS `sp_count_role`;
+
+
+

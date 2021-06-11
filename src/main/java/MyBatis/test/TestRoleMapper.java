@@ -1,5 +1,6 @@
 package MyBatis.test;
 
+import MyBatis.entity.CountRoleParams;
 import MyBatis.entity.PageParams;
 import MyBatis.entity.Role;
 import MyBatis.entity.RoleParams;
@@ -38,6 +39,7 @@ public class TestRoleMapper {
         //User user = userMapper.getUser(1L);
         //logger.info(user.getUserName());
         //System.out.println(user.getId() + "\t" + user.getUserName() + "\t\t" +  user.getNote());
+
     }
 
     public void testRoleMapperIntert(SqlSession sqlSession) {
@@ -51,11 +53,23 @@ public class TestRoleMapper {
 
         int iReturn = roleMapper.insertRole(role);
         sqlSession.commit();
-        if (iReturn==1) {
+        if (iReturn == 1) {
             System.out.println("插入成功，返回值ID：" + role.getId());
-        }else{
+        } else {
             System.out.println("插入失败");
         }
+
+    }
+
+    public void testRoleMapperGetBySP(SqlSession sqlSession) {
+
+        RoleMapper roleMapper = sqlSession.getMapper(RoleMapper.class);
+
+        CountRoleParams countRoleParams = new CountRoleParams();
+        countRoleParams.setRoleName("name");
+        roleMapper.countRole(countRoleParams);
+        System.out.println("返回总数：" + countRoleParams.getTotal() + "\t\t" + "执行时间：" + countRoleParams.getExecDate());
+
 
     }
 

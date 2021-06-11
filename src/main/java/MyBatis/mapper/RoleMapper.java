@@ -2,6 +2,7 @@ package MyBatis.mapper;
 
 // import org.apache.ibatis.annotations.Param;
 
+import MyBatis.entity.CountRoleParams;
 import MyBatis.entity.PageParams;
 import MyBatis.entity.Role;
 import MyBatis.entity.RoleParams;
@@ -23,5 +24,7 @@ public interface RoleMapper {
     public List<Role> findRoles(String roleName);
 
     public List<Role> findRolesByParams(@Param("params") RoleParams roleParams, @Param("page") PageParams pageParams, RowBounds rowBounds);
+
+    public void countRole(CountRoleParams countRoleParams);
 
 }
