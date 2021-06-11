@@ -7,6 +7,8 @@ import MyBatis.entity.RoleParams;
 import MyBatis.mapper.RoleMapper;
 import org.apache.ibatis.session.RowBounds;
 import org.apache.ibatis.session.SqlSession;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.List;
 import java.util.Random;
@@ -16,6 +18,8 @@ public class TestRoleMapper {
     TestRoleMapper() {
 
     }
+
+    final Logger logger = LoggerFactory.getLogger(TestRoleMapper.class);
 
     public void testRoleMapperFindRoles(SqlSession sqlSession) {
 
@@ -27,6 +31,7 @@ public class TestRoleMapper {
         for (Role role : roles) {
             System.out.println(role.getId() + "\t\t\t" + role.getRoleName() + "\t\t\t" + role.getNote());
         }
+
 
     }
 
