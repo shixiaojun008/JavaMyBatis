@@ -19,9 +19,9 @@ public interface RoleMapper {
 
     public int updateRole(Role role);
 
-    public Role getRole(Long id);
+    public Role getRole(@Param("id") Long id);
 
-    public List<Role> findRoles(String roleName);
+    public List<Role> findRoles(@Param("roleName")  String roleName);
 
     public List<Role> findRolesByParams(@Param("params") RoleParams roleParams, @Param("page") PageParams pageParams, RowBounds rowBounds);
 

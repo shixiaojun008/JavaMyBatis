@@ -38,10 +38,12 @@
     </update>
 
     <select id="findRoles" parameterType="string" resultType="role">
+        <bind name="pattern" value="'%' + roleName + '%'"/>
         select
         <include refid="roleCols"></include>
         from t_role
-        where role_name like concat('%', #{roleName}, '%')
+        where role_name like #{pattern}
+        <!--                       where role_name like concat('%', #{roleName}, '%')   -->
     </select>
 
 
@@ -56,16 +58,22 @@
         select
         <include refid="roleCols"></include>
         from t_role
-        where role_name like concat('%', #{params.roleName}, '%')
-        and note like concat('%', #{params.note}, '%')
+        where 1=1
+        <if test="params.roleName != null and params.roleName != ''">
+            and role_name like concat('%', #{params.roleName}, '%')
+        </if>
+        <if test="params.note != null and params.note != ''">
+            and note like concat('%', #{params.note}, '%')
+        </if>
+
         limit #{page.start}, #{page.limit}
     </select>
 
     <select id="countRole" parameterType="MyBatis.entity.CountRoleParams" statementType="CALLABLE">
         {CALL sp_count_role(
-            #{roleName, mode=IN, jdbcType=VARCHAR},
-            #{total, mode=OUT, jdbcType=INTEGER},
-            #{execDate, mode=OUT, jdbcType=DATE}
+                #{roleName, mode=IN, jdbcType=VARCHAR},
+                #{total, mode=OUT, jdbcType=INTEGER},
+                #{execDate, mode=OUT, jdbcType=DATE}
             )}
     </select>
 

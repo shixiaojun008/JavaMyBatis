@@ -17,11 +17,24 @@ public class TestRoleMapper {
 
     }
 
+    public void testRoleMapperFindRoles(SqlSession sqlSession) {
+
+        RoleMapper roleMapper = sqlSession.getMapper(RoleMapper.class);
+
+        List<Role> roles = roleMapper.findRoles("name");
+
+        System.out.println("ID" + "\t\t\t" + "role_Name" + "\t\t\t\t" + "role_Note");
+        for (Role role : roles) {
+            System.out.println(role.getId() + "\t\t\t" + role.getRoleName() + "\t\t\t" + role.getNote());
+        }
+
+    }
+
     public void testRoleMapperGet(SqlSession sqlSession) {
 
         RoleMapper roleMapper = sqlSession.getMapper(RoleMapper.class);
         //Role role = roleMapper.getRole(1L);
-        RoleParams roleParams = new RoleParams("role", "note");
+        RoleParams roleParams = new RoleParams("nam", "note");
         PageParams pageParams = new PageParams(0, 100);
         RowBounds rowBounds = new RowBounds(0, 100);
         List<Role> roles = roleMapper.findRolesByParams(roleParams, pageParams, rowBounds);

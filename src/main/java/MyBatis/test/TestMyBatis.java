@@ -28,13 +28,14 @@ public class TestMyBatis {
             TestRoleMapper testRoleMapper = new TestRoleMapper();
 
             //测试 Role的查询
+            testRoleMapper.testRoleMapperFindRoles(sqlSession);
             //testRoleMapper.testRoleMapperGet(sqlSession);
 
             // 测试 Role 的插入
             //testRoleMapper.testRoleMapperIntert(sqlSession);
 
             // 测试 Role 通过存储过程查询
-            testRoleMapper.testRoleMapperGetBySP(sqlSession);
+            // testRoleMapper.testRoleMapperGetBySP(sqlSession);
 
             //测试 Employee 的过程
 //            TestEmployeeMapper testEmployeeMapper = new TestEmployeeMapper();
